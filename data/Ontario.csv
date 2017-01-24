@@ -1,0 +1,531 @@
+date,city,province,hair_color,laughing,height
+2016-10-25,Mississauga,Ontario,green,1,180
+2016-10-15,Mississauga,Ontario,yellow,1,176
+2016-10-10,Mississauga,Ontario,white,1,159
+2016-10-04,Mississauga,Ontario,yellow,0,196
+2016-10-05,Mississauga,Ontario,green,1,164
+2016-10-11,Mississauga,Ontario,red,1,169
+2016-10-05,Mississauga,Ontario,white,0,199
+2016-10-23,Mississauga,Ontario,yellow,0,180
+2016-10-22,Mississauga,Ontario,yellow,0,155
+2016-10-14,Mississauga,Ontario,yellow,0,151
+2016-10-25,Mississauga,Ontario,red,1,154
+2016-10-10,Mississauga,Ontario,yellow,1,161
+2016-10-30,Mississauga,Ontario,yellow,1,172
+2016-10-30,Mississauga,Ontario,blue,0,190
+2016-10-26,Mississauga,Ontario,green,0,171
+2016-10-30,Mississauga,Ontario,yellow,1,186
+2016-10-27,Mississauga,Ontario,red,1,165
+2016-10-05,Mississauga,Ontario,white,1,187
+2016-10-28,Mississauga,Ontario,blue,1,152
+2016-10-11,Mississauga,Ontario,green,1,193
+2016-10-12,Mississauga,Ontario,yellow,0,182
+2016-10-02,Mississauga,Ontario,white,0,177
+2016-10-13,Mississauga,Ontario,yellow,1,199
+2016-10-05,Mississauga,Ontario,white,1,184
+2016-10-08,Mississauga,Ontario,blue,0,188
+2016-10-31,Mississauga,Ontario,white,1,194
+2016-10-26,Mississauga,Ontario,white,1,188
+2016-10-19,Mississauga,Ontario,yellow,0,154
+2016-10-14,Mississauga,Ontario,blue,1,177
+2016-10-04,Mississauga,Ontario,green,1,157
+2016-10-10,Mississauga,Ontario,white,1,197
+2016-10-20,Mississauga,Ontario,yellow,0,168
+2016-10-27,Mississauga,Ontario,blue,1,156
+2016-10-28,Mississauga,Ontario,blue,0,196
+2016-10-27,Mississauga,Ontario,yellow,1,199
+2016-10-07,Mississauga,Ontario,white,1,163
+2016-10-01,Mississauga,Ontario,white,0,187
+2016-10-02,Mississauga,Ontario,blue,1,172
+2016-10-17,Mississauga,Ontario,white,0,194
+2016-10-12,Mississauga,Ontario,white,0,154
+2016-10-04,Mississauga,Ontario,blue,0,180
+2016-10-14,Mississauga,Ontario,green,1,176
+2016-10-15,Mississauga,Ontario,blue,1,199
+2016-10-22,Mississauga,Ontario,yellow,1,172
+2016-10-13,Mississauga,Ontario,blue,0,161
+2016-10-21,Mississauga,Ontario,green,1,169
+2016-10-13,Mississauga,Ontario,yellow,0,156
+2016-10-18,Mississauga,Ontario,red,1,159
+2016-10-11,Mississauga,Ontario,red,0,190
+2016-10-24,Mississauga,Ontario,white,0,174
+2016-10-04,Mississauga,Ontario,blue,0,191
+2016-10-22,Mississauga,Ontario,green,0,164
+2016-10-12,Mississauga,Ontario,white,1,199
+2016-10-18,Mississauga,Ontario,blue,1,155
+2016-10-22,Mississauga,Ontario,red,1,158
+2016-10-19,Mississauga,Ontario,yellow,0,160
+2016-10-31,Mississauga,Ontario,yellow,0,169
+2016-10-12,Mississauga,Ontario,green,1,177
+2016-10-16,Mississauga,Ontario,white,0,196
+2016-10-21,Mississauga,Ontario,white,0,186
+2016-10-11,Mississauga,Ontario,green,1,191
+2016-10-20,Mississauga,Ontario,red,1,169
+2016-10-13,Mississauga,Ontario,green,0,151
+2016-10-17,Mississauga,Ontario,blue,0,159
+2016-10-25,Mississauga,Ontario,green,1,159
+2016-10-15,Mississauga,Ontario,white,1,171
+2016-10-09,North York,Ontario,red,1,192
+2016-10-07,North York,Ontario,red,0,168
+2016-10-14,North York,Ontario,yellow,1,195
+2016-10-24,North York,Ontario,blue,1,164
+2016-10-27,North York,Ontario,white,1,150
+2016-10-02,North York,Ontario,red,1,172
+2016-10-16,North York,Ontario,green,1,188
+2016-10-10,North York,Ontario,yellow,0,172
+2016-10-25,North York,Ontario,green,0,189
+2016-10-16,North York,Ontario,white,0,163
+2016-10-05,North York,Ontario,green,1,174
+2016-10-21,North York,Ontario,blue,0,186
+2016-10-21,North York,Ontario,white,1,158
+2016-10-22,North York,Ontario,red,0,164
+2016-10-31,North York,Ontario,yellow,0,177
+2016-10-11,North York,Ontario,blue,0,159
+2016-10-03,North York,Ontario,red,0,191
+2016-10-15,North York,Ontario,red,0,167
+2016-10-25,North York,Ontario,green,0,191
+2016-10-18,North York,Ontario,green,0,172
+2016-10-25,North York,Ontario,white,0,165
+2016-10-24,North York,Ontario,white,0,170
+2016-10-20,North York,Ontario,red,0,194
+2016-10-30,North York,Ontario,blue,0,169
+2016-10-26,North York,Ontario,white,1,183
+2016-10-03,North York,Ontario,blue,0,191
+2016-10-21,North York,Ontario,red,0,186
+2016-10-11,North York,Ontario,yellow,0,160
+2016-10-29,North York,Ontario,white,1,164
+2016-10-03,North York,Ontario,white,1,168
+2016-10-07,North York,Ontario,white,0,182
+2016-10-23,North York,Ontario,green,0,194
+2016-10-13,North York,Ontario,white,0,186
+2016-10-28,North York,Ontario,green,1,162
+2016-10-27,North York,Ontario,green,1,181
+2016-10-17,North York,Ontario,green,0,184
+2016-10-20,North York,Ontario,green,1,157
+2016-10-03,North York,Ontario,blue,0,164
+2016-10-03,North York,Ontario,blue,1,184
+2016-10-20,North York,Ontario,white,0,151
+2016-10-20,North York,Ontario,green,0,177
+2016-10-07,North York,Ontario,blue,1,163
+2016-10-25,North York,Ontario,blue,1,156
+2016-10-29,North York,Ontario,white,0,172
+2016-10-17,North York,Ontario,white,0,183
+2016-10-01,North York,Ontario,white,0,160
+2016-10-09,North York,Ontario,green,1,153
+2016-10-10,North York,Ontario,yellow,0,169
+2016-10-20,North York,Ontario,white,1,195
+2016-10-13,North York,Ontario,blue,1,183
+2016-10-03,North York,Ontario,white,0,175
+2016-10-07,North York,Ontario,white,0,178
+2016-10-30,North York,Ontario,red,0,157
+2016-10-04,North York,Ontario,red,1,154
+2016-10-29,North York,Ontario,white,1,175
+2016-10-05,North York,Ontario,red,0,191
+2016-10-13,North York,Ontario,red,0,190
+2016-10-18,North York,Ontario,white,0,194
+2016-10-21,North York,Ontario,red,1,164
+2016-10-08,North York,Ontario,red,1,174
+2016-10-05,North York,Ontario,green,0,162
+2016-10-25,North York,Ontario,white,1,163
+2016-10-12,North York,Ontario,blue,1,194
+2016-10-26,Ottawa,Ontario,green,0,197
+2016-10-27,Ottawa,Ontario,green,0,192
+2016-10-14,Ottawa,Ontario,yellow,1,166
+2016-10-17,Ottawa,Ontario,blue,1,188
+2016-10-08,Ottawa,Ontario,white,0,190
+2016-10-11,Ottawa,Ontario,white,0,191
+2016-10-23,Ottawa,Ontario,yellow,0,178
+2016-10-25,Ottawa,Ontario,blue,1,158
+2016-10-13,Ottawa,Ontario,white,1,173
+2016-10-04,Ottawa,Ontario,white,1,178
+2016-10-23,Ottawa,Ontario,green,0,169
+2016-10-04,Ottawa,Ontario,white,0,199
+2016-10-30,Ottawa,Ontario,blue,0,155
+2016-10-19,Ottawa,Ontario,green,0,158
+2016-10-11,Ottawa,Ontario,red,1,168
+2016-10-23,Ottawa,Ontario,white,0,172
+2016-10-02,Ottawa,Ontario,white,1,180
+2016-10-10,Ottawa,Ontario,blue,0,167
+2016-10-24,Ottawa,Ontario,yellow,0,151
+2016-10-25,Ottawa,Ontario,green,1,150
+2016-10-09,Ottawa,Ontario,red,1,186
+2016-10-07,Ottawa,Ontario,white,0,190
+2016-10-13,Ottawa,Ontario,red,0,198
+2016-10-30,Ottawa,Ontario,white,0,155
+2016-10-10,Ottawa,Ontario,red,1,175
+2016-10-24,Ottawa,Ontario,blue,0,170
+2016-10-18,Ottawa,Ontario,blue,1,173
+2016-10-07,Ottawa,Ontario,yellow,0,164
+2016-10-28,Ottawa,Ontario,green,0,186
+2016-10-22,Ottawa,Ontario,yellow,1,190
+2016-10-07,Ottawa,Ontario,green,0,185
+2016-10-12,Ottawa,Ontario,blue,0,151
+2016-10-12,Ottawa,Ontario,green,1,156
+2016-10-27,Ottawa,Ontario,white,1,157
+2016-10-25,Ottawa,Ontario,white,0,164
+2016-10-08,Ottawa,Ontario,red,1,150
+2016-10-23,Ottawa,Ontario,red,0,175
+2016-10-12,Ottawa,Ontario,white,1,174
+2016-10-23,Ottawa,Ontario,green,1,184
+2016-10-11,Ottawa,Ontario,yellow,0,166
+2016-10-06,Ottawa,Ontario,green,1,188
+2016-10-18,Ottawa,Ontario,blue,1,189
+2016-10-04,Ottawa,Ontario,red,1,183
+2016-10-02,Ottawa,Ontario,green,1,177
+2016-10-06,Ottawa,Ontario,red,1,179
+2016-10-14,Ottawa,Ontario,yellow,1,188
+2016-10-12,Ottawa,Ontario,green,1,161
+2016-10-27,Ottawa,Ontario,white,0,199
+2016-10-24,Ottawa,Ontario,green,0,150
+2016-10-15,Ottawa,Ontario,green,0,171
+2016-10-09,Ottawa,Ontario,green,1,152
+2016-10-08,Ottawa,Ontario,yellow,1,160
+2016-10-17,Ottawa,Ontario,blue,0,169
+2016-10-01,Ottawa,Ontario,white,1,152
+2016-10-13,Ottawa,Ontario,blue,1,169
+2016-10-08,Ottawa,Ontario,blue,1,170
+2016-10-31,Ottawa,Ontario,green,0,190
+2016-10-06,Ottawa,Ontario,yellow,0,190
+2016-10-09,Ottawa,Ontario,red,0,190
+2016-10-19,Ottawa,Ontario,yellow,0,199
+2016-10-01,Ottawa,Ontario,white,0,150
+2016-10-01,Ottawa,Ontario,yellow,1,193
+2016-10-30,Ottawa,Ontario,blue,1,171
+2016-10-06,Ottawa,Ontario,yellow,0,186
+2016-10-18,Ottawa,Ontario,yellow,1,155
+2016-10-09,Ottawa,Ontario,red,0,190
+2016-10-16,Ottawa,Ontario,blue,0,170
+2016-10-23,Ottawa,Ontario,yellow,0,179
+2016-10-23,Ottawa,Ontario,red,1,177
+2016-10-19,Ottawa,Ontario,red,1,156
+2016-10-03,Ottawa,Ontario,blue,0,163
+2016-10-06,Ottawa,Ontario,blue,1,166
+2016-10-09,Ottawa,Ontario,blue,1,184
+2016-10-27,Ottawa,Ontario,green,0,151
+2016-10-16,Ottawa,Ontario,green,0,191
+2016-10-23,Ottawa,Ontario,blue,0,182
+2016-10-28,Ottawa,Ontario,blue,1,165
+2016-10-23,Ottawa,Ontario,red,1,156
+2016-10-12,Ottawa,Ontario,white,0,151
+2016-10-22,Ottawa,Ontario,white,1,170
+2016-10-12,Ottawa,Ontario,yellow,1,160
+2016-10-06,Scarborough,Ontario,red,1,158
+2016-10-22,Scarborough,Ontario,blue,1,168
+2016-10-04,Scarborough,Ontario,yellow,1,182
+2016-10-30,Scarborough,Ontario,green,0,196
+2016-10-22,Scarborough,Ontario,white,1,172
+2016-10-19,Scarborough,Ontario,white,1,161
+2016-10-21,Scarborough,Ontario,green,0,166
+2016-10-05,Scarborough,Ontario,yellow,1,167
+2016-10-23,Scarborough,Ontario,yellow,0,181
+2016-10-23,Scarborough,Ontario,white,0,187
+2016-10-12,Scarborough,Ontario,white,1,193
+2016-10-29,Scarborough,Ontario,red,1,195
+2016-10-06,Scarborough,Ontario,red,1,172
+2016-10-28,Scarborough,Ontario,green,1,169
+2016-10-12,Scarborough,Ontario,blue,0,163
+2016-10-11,Scarborough,Ontario,blue,0,151
+2016-10-25,Scarborough,Ontario,red,0,190
+2016-10-11,Scarborough,Ontario,blue,0,176
+2016-10-06,Scarborough,Ontario,green,0,150
+2016-10-31,Scarborough,Ontario,blue,0,174
+2016-10-01,Scarborough,Ontario,yellow,1,171
+2016-10-09,Scarborough,Ontario,white,1,157
+2016-10-10,Scarborough,Ontario,green,1,199
+2016-10-21,Scarborough,Ontario,blue,0,182
+2016-10-02,Scarborough,Ontario,yellow,0,150
+2016-10-04,Scarborough,Ontario,green,1,187
+2016-10-12,Scarborough,Ontario,white,1,157
+2016-10-01,Scarborough,Ontario,white,1,194
+2016-10-19,Scarborough,Ontario,blue,1,159
+2016-10-13,Scarborough,Ontario,blue,1,152
+2016-10-25,Scarborough,Ontario,blue,1,182
+2016-10-17,Scarborough,Ontario,green,0,195
+2016-10-28,Scarborough,Ontario,green,0,178
+2016-10-21,Scarborough,Ontario,green,1,168
+2016-10-13,Scarborough,Ontario,red,1,167
+2016-10-30,Scarborough,Ontario,blue,0,169
+2016-10-30,Scarborough,Ontario,blue,1,165
+2016-10-22,Scarborough,Ontario,blue,0,173
+2016-10-15,Scarborough,Ontario,yellow,1,185
+2016-10-21,Scarborough,Ontario,green,0,187
+2016-10-21,Scarborough,Ontario,white,0,151
+2016-10-16,Scarborough,Ontario,white,0,167
+2016-10-26,Scarborough,Ontario,white,0,162
+2016-10-16,Scarborough,Ontario,white,0,150
+2016-10-20,Scarborough,Ontario,blue,0,166
+2016-10-23,Scarborough,Ontario,green,0,166
+2016-10-17,Scarborough,Ontario,blue,0,191
+2016-10-22,Scarborough,Ontario,blue,0,196
+2016-10-08,Scarborough,Ontario,white,0,191
+2016-10-13,Scarborough,Ontario,red,1,152
+2016-10-29,Scarborough,Ontario,white,0,185
+2016-10-01,Scarborough,Ontario,yellow,1,176
+2016-10-14,Scarborough,Ontario,red,1,183
+2016-10-06,Scarborough,Ontario,yellow,0,165
+2016-10-24,Scarborough,Ontario,red,1,188
+2016-10-03,Scarborough,Ontario,blue,0,165
+2016-10-28,Scarborough,Ontario,red,1,156
+2016-10-31,Scarborough,Ontario,blue,1,193
+2016-10-22,Scarborough,Ontario,green,0,158
+2016-10-01,Scarborough,Ontario,red,0,196
+2016-10-16,Toronto,Ontario,white,1,190
+2016-10-14,Toronto,Ontario,blue,1,175
+2016-10-17,Toronto,Ontario,blue,0,191
+2016-10-28,Toronto,Ontario,green,0,171
+2016-10-13,Toronto,Ontario,red,0,176
+2016-10-04,Toronto,Ontario,yellow,0,152
+2016-10-01,Toronto,Ontario,red,0,197
+2016-10-08,Toronto,Ontario,red,1,162
+2016-10-06,Toronto,Ontario,blue,0,180
+2016-10-24,Toronto,Ontario,white,0,175
+2016-10-10,Toronto,Ontario,green,0,191
+2016-10-28,Toronto,Ontario,blue,1,193
+2016-10-08,Toronto,Ontario,white,1,193
+2016-10-31,Toronto,Ontario,red,1,155
+2016-10-20,Toronto,Ontario,red,0,161
+2016-10-24,Toronto,Ontario,white,0,195
+2016-10-09,Toronto,Ontario,red,0,176
+2016-10-03,Toronto,Ontario,blue,0,183
+2016-10-13,Toronto,Ontario,yellow,1,180
+2016-10-31,Toronto,Ontario,blue,0,165
+2016-10-13,Toronto,Ontario,red,0,179
+2016-10-27,Toronto,Ontario,red,0,191
+2016-10-08,Toronto,Ontario,yellow,0,168
+2016-10-20,Toronto,Ontario,white,0,167
+2016-10-30,Toronto,Ontario,white,1,189
+2016-10-18,Toronto,Ontario,blue,1,159
+2016-10-29,Toronto,Ontario,green,0,188
+2016-10-10,Toronto,Ontario,blue,0,173
+2016-10-10,Toronto,Ontario,green,1,186
+2016-10-01,Toronto,Ontario,blue,1,186
+2016-10-19,Toronto,Ontario,blue,1,182
+2016-10-14,Toronto,Ontario,yellow,0,199
+2016-10-03,Toronto,Ontario,yellow,1,191
+2016-10-01,Toronto,Ontario,yellow,1,179
+2016-10-02,Toronto,Ontario,white,1,154
+2016-10-23,Toronto,Ontario,blue,0,155
+2016-10-15,Toronto,Ontario,blue,0,177
+2016-10-19,Toronto,Ontario,yellow,1,172
+2016-10-23,Toronto,Ontario,yellow,0,163
+2016-10-21,Toronto,Ontario,yellow,0,169
+2016-10-01,Toronto,Ontario,blue,1,190
+2016-10-31,Toronto,Ontario,yellow,1,195
+2016-10-02,Toronto,Ontario,yellow,0,167
+2016-10-02,Toronto,Ontario,blue,0,189
+2016-10-01,Toronto,Ontario,blue,0,163
+2016-10-14,Toronto,Ontario,blue,0,188
+2016-10-13,Toronto,Ontario,green,1,169
+2016-10-31,Toronto,Ontario,green,1,152
+2016-10-10,Toronto,Ontario,blue,0,185
+2016-10-04,Toronto,Ontario,green,1,199
+2016-10-19,Toronto,Ontario,green,0,163
+2016-10-05,Toronto,Ontario,white,0,155
+2016-10-24,Toronto,Ontario,white,1,171
+2016-10-27,Toronto,Ontario,yellow,0,187
+2016-10-01,Toronto,Ontario,yellow,0,181
+2016-10-04,Toronto,Ontario,white,0,161
+2016-10-11,Toronto,Ontario,yellow,1,175
+2016-10-25,Toronto,Ontario,red,1,151
+2016-10-12,Toronto,Ontario,green,1,194
+2016-10-18,Toronto,Ontario,green,1,166
+2016-10-01,Toronto,Ontario,blue,1,190
+2016-10-17,Toronto,Ontario,red,0,165
+2016-10-25,Toronto,Ontario,white,1,178
+2016-10-06,Toronto,Ontario,yellow,1,191
+2016-10-02,Toronto,Ontario,yellow,0,169
+2016-10-12,Toronto,Ontario,white,1,158
+2016-10-28,Toronto,Ontario,yellow,0,175
+2016-10-01,Toronto,Ontario,blue,0,163
+2016-10-02,Toronto,Ontario,blue,0,154
+2016-10-18,Toronto,Ontario,red,1,168
+2016-10-05,Toronto,Ontario,blue,1,197
+2016-10-11,Toronto,Ontario,blue,1,185
+2016-10-03,Toronto,Ontario,blue,0,164
+2016-10-07,Toronto,Ontario,red,0,184
+2016-10-21,Toronto,Ontario,green,0,186
+2016-10-20,Toronto,Ontario,blue,1,172
+2016-10-21,Toronto,Ontario,yellow,1,170
+2016-10-28,Toronto,Ontario,red,0,159
+2016-10-13,Toronto,Ontario,yellow,1,176
+2016-10-24,Toronto,Ontario,red,0,181
+2016-10-10,Toronto,Ontario,green,0,160
+2016-10-13,Toronto,Ontario,white,0,174
+2016-10-12,Toronto,Ontario,red,0,188
+2016-10-04,Toronto,Ontario,green,1,197
+2016-10-01,Toronto,Ontario,green,1,158
+2016-10-16,Toronto,Ontario,blue,0,189
+2016-10-11,Toronto,Ontario,yellow,1,190
+2016-10-16,Toronto,Ontario,red,0,157
+2016-10-12,Toronto,Ontario,green,1,181
+2016-10-30,Toronto,Ontario,blue,0,168
+2016-10-20,Toronto,Ontario,red,1,185
+2016-10-25,Toronto,Ontario,white,0,165
+2016-10-29,Toronto,Ontario,yellow,0,167
+2016-10-25,Toronto,Ontario,red,1,182
+2016-10-11,Toronto,Ontario,green,0,159
+2016-10-19,Toronto,Ontario,red,1,160
+2016-10-03,Toronto,Ontario,green,1,198
+2016-10-23,Toronto,Ontario,red,1,182
+2016-10-28,Toronto,Ontario,red,0,150
+2016-10-28,Toronto,Ontario,white,1,167
+2016-10-11,Toronto,Ontario,green,0,152
+2016-10-10,Toronto,Ontario,white,1,185
+2016-10-21,Toronto,Ontario,white,0,185
+2016-10-11,Toronto,Ontario,yellow,0,193
+2016-10-09,Toronto,Ontario,yellow,1,197
+2016-10-20,Toronto,Ontario,white,0,174
+2016-10-09,Toronto,Ontario,white,1,198
+2016-10-18,Toronto,Ontario,white,1,152
+2016-10-04,Toronto,Ontario,green,0,174
+2016-10-10,Toronto,Ontario,white,1,171
+2016-10-25,Toronto,Ontario,green,1,193
+2016-10-06,Toronto,Ontario,white,0,189
+2016-10-10,Toronto,Ontario,white,0,153
+2016-10-25,Toronto,Ontario,green,0,159
+2016-10-10,Toronto,Ontario,blue,1,163
+2016-10-21,Toronto,Ontario,blue,0,165
+2016-10-25,Toronto,Ontario,blue,1,173
+2016-10-01,Toronto,Ontario,red,0,192
+2016-10-24,Toronto,Ontario,green,0,180
+2016-10-14,Toronto,Ontario,green,1,153
+2016-10-27,Toronto,Ontario,blue,1,176
+2016-10-25,Toronto,Ontario,yellow,0,181
+2016-10-22,Toronto,Ontario,blue,0,162
+2016-10-03,Toronto,Ontario,yellow,0,188
+2016-10-15,Toronto,Ontario,blue,0,199
+2016-10-11,Toronto,Ontario,blue,0,181
+2016-10-19,Toronto,Ontario,blue,1,174
+2016-10-19,Toronto,Ontario,red,1,195
+2016-10-31,Toronto,Ontario,yellow,0,155
+2016-10-24,Toronto,Ontario,white,1,173
+2016-10-12,Toronto,Ontario,blue,1,199
+2016-10-31,Toronto,Ontario,blue,0,164
+2016-10-18,Toronto,Ontario,yellow,1,178
+2016-10-21,Toronto,Ontario,white,0,185
+2016-10-15,Toronto,Ontario,yellow,1,197
+2016-10-19,Toronto,Ontario,white,0,199
+2016-10-26,Toronto,Ontario,red,0,181
+2016-10-06,Toronto,Ontario,yellow,1,198
+2016-10-02,Toronto,Ontario,blue,1,156
+2016-10-29,Toronto,Ontario,white,1,180
+2016-10-16,Toronto,Ontario,red,1,176
+2016-10-24,Toronto,Ontario,green,1,150
+2016-10-25,Toronto,Ontario,green,0,172
+2016-10-24,Toronto,Ontario,red,1,191
+2016-10-18,Toronto,Ontario,red,1,151
+2016-10-10,Toronto,Ontario,white,0,178
+2016-10-29,Toronto,Ontario,white,0,165
+2016-10-29,Toronto,Ontario,yellow,1,193
+2016-10-11,Toronto,Ontario,green,0,196
+2016-10-06,Toronto,Ontario,white,0,175
+2016-10-21,Toronto,Ontario,red,0,194
+2016-10-30,Toronto,Ontario,white,1,152
+2016-10-24,Toronto,Ontario,green,0,162
+2016-10-25,Toronto,Ontario,blue,0,171
+2016-10-21,Toronto,Ontario,blue,0,161
+2016-10-23,Toronto,Ontario,red,0,190
+2016-10-06,Toronto,Ontario,yellow,1,161
+2016-10-28,Toronto,Ontario,yellow,0,169
+2016-10-03,Toronto,Ontario,red,1,194
+2016-10-17,Toronto,Ontario,white,0,166
+2016-10-06,Toronto,Ontario,green,0,157
+2016-10-21,Toronto,Ontario,yellow,1,199
+2016-10-29,Toronto,Ontario,yellow,0,174
+2016-10-08,Toronto,Ontario,yellow,1,198
+2016-10-25,Toronto,Ontario,white,0,168
+2016-10-27,Toronto,Ontario,green,1,151
+2016-10-06,Toronto,Ontario,green,0,185
+2016-10-13,Toronto,Ontario,red,0,172
+2016-10-07,Toronto,Ontario,white,1,160
+2016-10-19,Toronto,Ontario,yellow,1,184
+2016-10-28,Toronto,Ontario,green,0,183
+2016-10-08,Toronto,Ontario,white,1,187
+2016-10-25,Toronto,Ontario,green,1,181
+2016-10-31,Toronto,Ontario,yellow,1,165
+2016-10-19,Toronto,Ontario,red,1,182
+2016-10-11,Toronto,Ontario,white,0,151
+2016-10-27,Toronto,Ontario,blue,0,175
+2016-10-08,Toronto,Ontario,yellow,1,191
+2016-10-25,Toronto,Ontario,blue,1,169
+2016-10-03,Toronto,Ontario,green,1,185
+2016-10-11,Toronto,Ontario,red,0,170
+2016-10-17,Toronto,Ontario,red,0,192
+2016-10-15,Toronto,Ontario,white,0,167
+2016-10-17,Toronto,Ontario,blue,0,196
+2016-10-01,Toronto,Ontario,red,0,190
+2016-10-23,Toronto,Ontario,green,0,196
+2016-10-09,Toronto,Ontario,yellow,1,191
+2016-10-16,Toronto,Ontario,red,0,180
+2016-10-12,Toronto,Ontario,red,0,176
+2016-10-02,Toronto,Ontario,blue,1,166
+2016-10-21,Toronto,Ontario,white,0,179
+2016-10-27,Toronto,Ontario,red,1,156
+2016-10-15,Toronto,Ontario,white,0,192
+2016-10-25,Toronto,Ontario,green,0,185
+2016-10-21,Toronto,Ontario,green,1,173
+2016-10-03,Toronto,Ontario,blue,1,171
+2016-10-21,Toronto,Ontario,white,0,157
+2016-10-14,Toronto,Ontario,white,1,198
+2016-10-20,Toronto,Ontario,white,1,156
+2016-10-25,Toronto,Ontario,blue,1,184
+2016-10-02,Toronto,Ontario,red,1,182
+2016-10-25,Toronto,Ontario,blue,1,155
+2016-10-15,Toronto,Ontario,white,0,193
+2016-10-10,Toronto,Ontario,white,0,181
+2016-10-26,Toronto,Ontario,white,1,171
+2016-10-26,Toronto,Ontario,red,0,187
+2016-10-11,Toronto,Ontario,blue,0,196
+2016-10-07,Toronto,Ontario,blue,0,173
+2016-10-19,Toronto,Ontario,green,0,155
+2016-10-08,Toronto,Ontario,blue,0,188
+2016-10-25,Toronto,Ontario,white,1,165
+2016-10-08,Toronto,Ontario,blue,1,151
+2016-10-26,Toronto,Ontario,yellow,0,177
+2016-10-09,Toronto,Ontario,blue,0,183
+2016-10-27,Toronto,Ontario,red,0,172
+2016-10-01,Toronto,Ontario,white,1,186
+2016-10-03,Toronto,Ontario,red,0,156
+2016-10-26,Toronto,Ontario,red,1,168
+2016-10-23,Toronto,Ontario,red,0,170
+2016-10-14,Toronto,Ontario,blue,0,152
+2016-10-09,Toronto,Ontario,blue,0,173
+2016-10-22,Toronto,Ontario,green,0,186
+2016-10-27,Toronto,Ontario,yellow,1,158
+2016-10-17,Toronto,Ontario,red,1,188
+2016-10-16,Toronto,Ontario,white,1,155
+2016-10-12,Toronto,Ontario,red,1,163
+2016-10-29,Toronto,Ontario,blue,1,185
+2016-10-29,Toronto,Ontario,green,1,159
+2016-10-13,Toronto,Ontario,blue,0,164
+2016-10-13,Toronto,Ontario,white,0,174
+2016-10-04,Toronto,Ontario,blue,0,170
+2016-10-25,Toronto,Ontario,blue,1,194
+2016-10-20,Toronto,Ontario,yellow,1,179
+2016-10-11,Toronto,Ontario,green,0,175
+2016-10-25,Toronto,Ontario,yellow,1,192
+2016-10-13,Toronto,Ontario,red,1,172
+2016-10-15,Toronto,Ontario,white,1,184
+2016-10-30,Toronto,Ontario,red,1,168
+2016-10-20,Toronto,Ontario,blue,0,191
+2016-10-09,Toronto,Ontario,yellow,1,197
+2016-10-27,Toronto,Ontario,white,1,181
+2016-10-08,Toronto,Ontario,red,1,169
+2016-10-15,Toronto,Ontario,yellow,0,151
+2016-10-20,Toronto,Ontario,white,1,161
+2016-10-03,Toronto,Ontario,green,0,199
+2016-10-29,Toronto,Ontario,white,1,153
+2016-10-30,Toronto,Ontario,blue,0,164
+2016-10-27,Toronto,Ontario,blue,0,165
+2016-10-01,Toronto,Ontario,green,0,166
+2016-10-30,Toronto,Ontario,blue,0,194
+2016-10-09,Toronto,Ontario,blue,1,170
+2016-10-01,Toronto,Ontario,white,0,155
+2016-10-02,Toronto,Ontario,blue,0,197
+2016-10-28,Toronto,Ontario,yellow,0,164
+2016-10-02,Toronto,Ontario,blue,1,150
+2016-10-11,Toronto,Ontario,green,1,166
+2016-10-27,Toronto,Ontario,green,0,198
+2016-10-22,Toronto,Ontario,red,1,188
+2016-10-04,Toronto,Ontario,white,0,167
+2016-10-30,Toronto,Ontario,white,1,171
